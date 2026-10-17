@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+<rect width="600" height="900" fill="#aad8ef"/>
+<rect x="30" y="30" width="540" height="840" fill="#2e6b4f"/>
+<rect x="70" y="160" width="460" height="4" fill="#aad8ef" opacity=".7"/>
+<text x="300" y="380" font-size="58" font-weight="700" text-anchor="middle" fill="#fff" font-family="Georgia,serif">Bestiario</text>
+<rect x="70" y="600" width="460" height="4" fill="#aad8ef" opacity=".7"/>
+<text x="300" y="680" font-size="32" text-anchor="middle" fill="#f1ede4" font-family="Georgia,serif" font-style="italic">Julio Cortázar</text>
+<text x="300" y="820" font-size="22" text-anchor="middle" fill="#aad8ef" font-family="system-ui,sans-serif" letter-spacing="6">KIER</text>
+</svg>

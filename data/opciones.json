@@ -1,0 +1,12 @@
+{
+  "envios": [
+    { "id": "retiro", "nombre": "Retiro en local", "costo": 0, "gratisDesde": 0 },
+    { "id": "caba", "nombre": "Envío CABA", "costo": 3500, "gratisDesde": 50000 },
+    { "id": "pais", "nombre": "Envío al resto del país", "costo": 6900, "gratisDesde": 80000 }
+  ],
+  "mediosPago": [
+    { "id": "transferencia", "nombre": "Transferencia (10% off)", "ajuste": -0.1 },
+    { "id": "debito", "nombre": "Tarjeta de débito", "ajuste": 0 },
+    { "id": "credito3", "nombre": "Crédito 3 cuotas (+15%)", "ajuste": 0.15 }
+  ]
+}
